@@ -9,7 +9,12 @@ Cambios Necesarios para hacerla funcionar:
 npm install --force
 ```
 
-### Compiles and hot-reloads for development
+### Iniciar servidor 
 ```
 npm run start
+```
+
+### Iniciar servidor de pruebas
+```
+npm run dev
 ```
